@@ -14,6 +14,10 @@
 
 ### Red Hat IT and Automation Management
 ### https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D41387303
+
+### Red Hat OpenShift Fundamentals for Partners
+### https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43804118
+
 ## Agenda:
 
 ### Day 1:

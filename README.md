@@ -1,4 +1,4 @@
-<img src="https://github.com/RHEPDS/OCPFundation4IBM/blob/master/logo.png" width="450" height="120">
+<img src="https://github.com/RHEPDS/OCPFundation4IBM/blob/main/logo.png" width="450" height="120">
 
 # Red Hat Foundation - technical sales - for IBM 
 ## remote version V0223

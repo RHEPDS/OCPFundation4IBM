@@ -38,6 +38,8 @@
 
 	https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D41387303	
 
+15:45	start selflearning
+
 17:00	End of the Day
 
 ### Day 2:
@@ -51,6 +53,8 @@
 11:15	Red Hat OpenShift Fundamentals for Partners			
 
 	https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43804118
+
+12:15	Start Self-learning
 
 13:00	Lunch Break
 

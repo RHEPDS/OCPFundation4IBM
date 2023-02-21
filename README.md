@@ -3,6 +3,7 @@
 # Red Hat Foundation - technical sales - for IBM 
 ## remote version V0223
 
+MentiMeter: https://www.menti.com/alzbgwmwvpxc
 
 ## Self learning Sessions
 

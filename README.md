@@ -59,7 +59,9 @@ MentiMeter: https://www.menti.com/alzbgwmwvpxc
 
 13:00	Lunch Break
 
-14:00	Open Hybrid Cloud  Overview					
+14:00	OpenSHift & IBM Cloud Pak(s)
+
+14:30	Open Hybrid Cloud  Overview					
 
 15:30	Break
 
